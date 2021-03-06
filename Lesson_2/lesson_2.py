@@ -49,3 +49,7 @@ def my_decorator(func):
 @my_decorator
 def add(a, b):
   return a + b
+
+# test
+def my_new_function():
+  return "I'm new!"
